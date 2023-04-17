@@ -180,3 +180,11 @@ REACT_APP_GITHUB_PAT = ghp_xxxxxxxxxxxxxxxxxxxxx
 #### Testing pure functions
 
 #### Testing components
+
+#### Running code coverage
+
+```
+npm run test -- --coverage --watchAll=false
+[Open with Live Server].../Chapter12/01-start-finish/coverage/lcov-report/src/index.html
+
+```
